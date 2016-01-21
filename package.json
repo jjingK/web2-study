@@ -1,0 +1,25 @@
+{
+  "name": "web2-study",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjingK/web2-study.git"
+  },
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "node-jsx": "*",
+    "jquery": "2.*"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "0.36.*"
+  }
+}
