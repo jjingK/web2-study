@@ -1,3 +1,14 @@
 ##project directory
 
-[link] (https://www.naver.com)
+```
+web2-study
+  |
+  + assets
+  + scripts
+  + src
+    |
+    + components
+    + index.html
+  + main.js
+  + package.json
+```
